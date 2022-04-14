@@ -1,0 +1,14 @@
+Add new job Title
+Navigating to Admin > Job > Job Titles and fill in the form to add new job title.
+
+Preconditions:
+  - Login succesful
+Steps:
+  1. Navigate to Admin > Job > Job Titles
+  2. Click on the button Add
+  3. Enter as job title: QA automation developer
+  4. Enter as job description: Automating tests in Python and Selenium Webdriver.
+  5. Click on button Save
+  6. Verify that new job title with description is on the list
+Expected results: >
+    All test steps passed as excepted. 
